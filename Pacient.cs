@@ -32,6 +32,6 @@ namespace MIS
     }
     public class Pacient
     {
-        
+
     }
 }
