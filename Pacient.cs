@@ -33,6 +33,5 @@ namespace MIS
     public class Pacient
     {
         // сосать гит я теперь могу делать все
-        public string IAPIDARAS = "ahahahahaha";
     }
 }
